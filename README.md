@@ -28,7 +28,9 @@ Make sure you have:
 1. Open **VS Code Terminal**.  
 2. Run this command to download the project:
    ```sh
-
+   git clone https://github.com/YOUR-USERNAME/flask_security_api.git
+   cd flask_security_api
+   
 
 ---
 
